@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/Pushing.git/static/js/main.db37d307.js",
-    "index.html": "/Pushing.git/index.html",
-    "main.db37d307.js.map": "/Pushing.git/static/js/main.db37d307.js.map"
+    "main.js": "/Pushing/static/js/main.db37d307.js",
+    "index.html": "/Pushing/index.html",
+    "main.db37d307.js.map": "/Pushing/static/js/main.db37d307.js.map"
   },
   "entrypoints": [
     "static/js/main.db37d307.js"
